@@ -1,5 +1,4 @@
 from tax import *
-p = 0
 while True:
     print ("-"*40) 
     amount = int(input("Amount >> "))
